@@ -1,0 +1,21 @@
+# Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+.venv/
+venv/
+*.log
+
+# VS Code settings
+.vscode/
+
+
+# Node modules
+frontend/node_modules/
+desktop-agent/node_modules/
+worknest-eos-frontend/node_modules/
+
+frontend/src/styles/globalcss_temp.css
