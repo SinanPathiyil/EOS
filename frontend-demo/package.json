@@ -1,0 +1,27 @@
+{
+  "name": "worknest-eos-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "WorkNest EOS - Enterprise Operations System Demo Frontend",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.2.4"
+  },
+  "keywords": [
+    "worknest",
+    "eos",
+    "enterprise",
+    "operations",
+    "productivity",
+    "task-management",
+    "performance-tracking"
+  ],
+  "author": "WorkNest Team",
+  "license": "PROPRIETARY"
+}
