@@ -1,6 +1,6 @@
 
 ```
-payroll
+EOS
 ├─ backend
 │  ├─ app
 │  │  ├─ api
@@ -269,6 +269,21 @@ payroll
 │  │     └─ helpers.js
 │  ├─ tailwind.config.js
 │  └─ vite.config.js
+├─ frontend-demo
+│  ├─ boehm-logo.png
+│  ├─ index.html
+│  ├─ main.js
+│  ├─ package-lock.json
+│  ├─ package.json
+│  ├─ public
+│  │  └─ vite.svg
+│  ├─ README.md
+│  ├─ src
+│  │  ├─ counter.js
+│  │  ├─ javascript.svg
+│  │  ├─ main.js
+│  │  └─ style.css
+│  └─ style.css
 └─ README.md
 
 ```
